@@ -1,4 +1,4 @@
-From Coq Require Import String Program PeanoNat.
+From Stdlib Require Import String Program PeanoNat.
 
 Require Import ExtLib.Tactics.Consider.
 Require Import ExtLib.Core.RelDec.

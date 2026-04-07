@@ -6,7 +6,7 @@ Require Import ExtLib.Core.RelDec.
 Require Import ExtLib.Tactics.Consider.
 Require Import ExtLib.Tactics.Injection.
 
-Require Import Coq.Bool.Bool.
+Require Import Stdlib.Bool.Bool.
 
 Set Universe Polymorphism.
 Set Polymorphic Inductive Cumulativity.

@@ -1,5 +1,5 @@
-Require Import Coq.Bool.Bool.
-Require Import Coq.Classes.RelationClasses.
+Require Import Stdlib.Bool.Bool.
+Require Import Stdlib.Classes.RelationClasses.
 Require Import ExtLib.Tactics.Consider.
 
 Set Implicit Arguments.

@@ -1,4 +1,4 @@
-From Coq Require Import List EquivDec.
+From Stdlib Require Import List EquivDec.
 Require Import ExtLib.Core.RelDec.
 Require Import ExtLib.Structures.Monoid.
 Require Import ExtLib.Structures.Reducible.

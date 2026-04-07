@@ -1,8 +1,8 @@
-From Coq Require Ascii.
-From Coq Require Import String.
+From Stdlib Require Ascii.
+From Stdlib Require Import String.
 From Coq.Program Require Import Wf.
-From Coq Require Import BinPos.
-From Coq Require Import ZArith.
+From Stdlib Require Import BinPos.
+From Stdlib Require Import ZArith.
 Require Import ExtLib.Structures.Monoid.
 Require Import ExtLib.Structures.Reducible.
 Require Import ExtLib.Programming.Injection.

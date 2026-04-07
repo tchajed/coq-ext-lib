@@ -1,4 +1,4 @@
-Require Import Coq.PArith.BinPos.
+Require Import Stdlib.PArith.BinPos.
 Require Import ExtLib.Core.RelDec.
 
 Set Implicit Arguments.

@@ -1,5 +1,5 @@
-Require Import Coq.Relations.Relation_Definitions.
-Require Import Coq.Classes.RelationClasses.
+Require Import Stdlib.Relations.Relation_Definitions.
+Require Import Stdlib.Classes.RelationClasses.
 Require Import ExtLib.Core.RelDec.
 Require Import ExtLib.Tactics.Consider.
 Require Import ExtLib.Tactics.Injection.

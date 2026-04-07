@@ -1,4 +1,4 @@
-Require Import Coq.Classes.RelationClasses.
+Require Import Stdlib.Classes.RelationClasses.
 
 Lemma wf_anti_sym T (R : T -> T -> Prop) (wf : well_founded R)
 : Irreflexive R.

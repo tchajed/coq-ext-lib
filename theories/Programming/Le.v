@@ -1,4 +1,4 @@
-Require Import Coq.Bool.Bool.
+Require Import Stdlib.Bool.Bool.
 Require Import Equivalence.
 Require Import ExtLib.Core.RelDec.
 

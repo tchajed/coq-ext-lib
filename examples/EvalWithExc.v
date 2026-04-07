@@ -1,4 +1,4 @@
-Require Import Coq.Strings.String.
+Require Import Stdlib.Strings.String.
 (** Require the monad definitions **)
 Require Import ExtLib.Structures.Monads.
 (** Use the instances for exceptions **)

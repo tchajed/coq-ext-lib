@@ -1,5 +1,5 @@
 (** [member] is the proof relevant version of [In] **)
-Require Import Coq.Lists.List.
+Require Import Stdlib.Lists.List.
 Require Import Relations RelationClasses.
 Require Import ExtLib.Core.RelDec.
 Require Import ExtLib.Data.SigT.

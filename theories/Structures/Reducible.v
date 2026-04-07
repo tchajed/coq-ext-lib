@@ -1,4 +1,4 @@
-Require Import Coq.Classes.RelationClasses.
+Require Import Stdlib.Classes.RelationClasses.
 Require Import ExtLib.Structures.BinOps.
 Require Import ExtLib.Structures.Monad.
 

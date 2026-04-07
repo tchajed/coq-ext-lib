@@ -1,5 +1,5 @@
-Require Import Coq.Lists.List.
-Require Import Coq.PArith.BinPos.
+Require Import Stdlib.Lists.List.
+Require Import Stdlib.PArith.BinPos.
 Require Import ExtLib.Structures.Monads.
 Require Import ExtLib.Structures.Reducible.
 Require Import ExtLib.Data.Graph.Graph.

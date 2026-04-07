@@ -1,4 +1,4 @@
-Require Import Coq.Classes.RelationClasses.
+Require Import Stdlib.Classes.RelationClasses.
 Require Import Setoid.
 Require Import ExtLib.Data.Fun.
 Require Import ExtLib.Structures.Monads.
