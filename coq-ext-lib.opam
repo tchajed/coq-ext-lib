@@ -20,6 +20,7 @@ run-test: [make "-j%{jobs}%" "examples"]
 install: [make "install"]
 depends: [
   "rocq-core" { >= "9.0" }
+  "rocq-stdlib"
 ]
 
 tags: [
